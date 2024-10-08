@@ -18,8 +18,9 @@ I’m a passionate developer with an interest in building modern, responsive, an
 
 ## 🛠️ Languages and Tools:
 
-- HTML5 | CSS3 | JavaScript | React
-- Git | GitHub | Visual Studio Code
+- HTML5 | CSS3 | JavaScript | Bootstrap | JQuery
+- Git | GitHub
+- Visual Studio Code | Figma
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadHuzaifaQadri&color=blue)
 
