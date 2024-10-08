@@ -18,7 +18,7 @@ I’m a passionate developer with an interest in building modern, responsive, an
 
 ## 🛠️ Languages and Tools:
 
-- HTML5 | CSS3 | JavaScript | Bootstrap | JQuery
+- HTML5 | CSS3 | Bootstrap | JQuery
 - Git | GitHub
 - Visual Studio Code | Figma
 
